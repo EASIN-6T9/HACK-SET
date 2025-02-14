@@ -1,4 +1,4 @@
-#TERMUX POWERFUL SETUP TOOLS
+###TERMUX POWERFUL SETUP TOOLS
 
 This is a powerful setup script for Termux, designed to install essential packages, tools, and configurations automatically.
 
@@ -9,12 +9,11 @@ This is a powerful setup script for Termux, designed to install essential packag
 ✅ Storage permission setup, extra repositories & colorful interface
 ✅ Fast & easy one-click installation.
 
-![image alt]( https://github.com/EASIN-6T9/HACK-SET-/blob/main/20250212_194629.jpg )
+![image alt]( https://github.com/EASIN-6T9/HACK-SET/blob/main/20250214_160610.jpg )
 
 
 
-
-#INSTALATTION:-
+####INSTALATTION:-
 
 Open Termux and run the following commands:
 
@@ -24,13 +23,13 @@ pkg install git -y
 
 git clone https://github.com/EASIN-6T9/HACK-SET-.git
 
-cd HACK-SET- 
+cd HACK-SET
 
-chmod +x HACK SET.py
+chmod +x HACKSET.py
 
-python HACK SET.py
+python2 HACKSET.py
 
-#REQUIRMENTS
+###REQUIRMENTS
 
 Operating System: Android (Termux Required)./Kali Linux/Ubuntu/Parrot Os etc.
 
