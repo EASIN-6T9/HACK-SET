@@ -1,18 +1,20 @@
-#Termux Powerful Setup Tool
+#TERMUX POWERFUL SETUP TOOLS
 
 This is a powerful setup script for Termux, designed to install essential packages, tools, and configurations automatically.
 
-#Features
+#FEATURES
 
 ✅ Installs necessary packages & tools automatically
 ✅ Optimized customization for better performance
 ✅ Storage permission setup, extra repositories & colorful interface
-✅ Fast & easy one-click installation
+✅ Fast & easy one-click installation.
+
+![image alt]( https://github.com/EASIN-6T9/HACK-SET-/blob/main/20250212_194629.jpg )
 
 
 
 
-#Installation:-
+#INSTALATTION:-
 
 Open Termux and run the following commands:
 
