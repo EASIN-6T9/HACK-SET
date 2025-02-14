@@ -29,3 +29,20 @@ cd HACK SET
 chmod +x HACK SET.py
 
 python HACK SET.py
+
+#REQUIRMENTS
+
+Operating System: Android (Termux Required)./Kali Linux/Ubuntu/Parrot Os etc.
+
+Dependencies: Python, Git
+
+
+
+Developer Info
+
+Name: [Easin Hossain]
+
+GitHub: [https://github.com/EASIN-6T9]
+
+Email: [404 not found]
+
