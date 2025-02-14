@@ -22,9 +22,9 @@ pkg update && pkg upgrade -y
 
 pkg install git -y
 
-git clone https://github.com/EASIN-6T9/HACK SET.git
+git clone https://github.com/EASIN-6T9/HACK-SET-.git
 
-cd HACK SET 
+cd HACK-SET- 
 
 chmod +x HACK SET.py
 
